@@ -1,13 +1,13 @@
 {
-  "name": "Titanium",
-  "productName": "Titanium",
+  "name": "Sirius",
+  "productName": "Sirius",
   "version": "1.0.0",
   "description": "Minimal and Elegant VM Manager.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Apratim Shukla",
+  "author": "Lakshay Baheti",
   "license": "MIT",
   "dependencies": {
     "electron": "^7.2.4",

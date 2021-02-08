@@ -3,13 +3,13 @@ var electronInstaller = require('electron-winstaller');
 // In this case, we can use relative paths
 var settings = {
     // Specify the folder where the built app is located
-    appDirectory: './release-builds/Titanium-win32-ia32',
+    appDirectory: './release-builds/Sirius-win32-ia32',
     // Specify the existing folder where 
     outputDirectory: './installer',
     // The name of the Author of the app (the name of your company)
-    authors: 'Titanium VM Manager',
+    authors: 'Sirius',
     // The name of the executable of your built
-    exe: './Titanium.exe'
+    exe: './Sirius.exe'
 };
 
 resultPromise = electronInstaller.createWindowsInstaller(settings);

@@ -66,8 +66,8 @@ const mainMenuTemplate = [
                         buttons: ['Cancel'],
                         defaultId: 2,
                         title: 'About',
-                        message: 'Titanium VM Manager',
-                        detail: 'Titanium VM manager is built by Apratim Shukla and Abhishek TK. It utilizes the pyvirtualbox library. It is an educational instance built for the course CSE2005-Operating Systems under Professor Abdul Qadir.',
+                        message: 'Sirius',
+                        detail: 'Sirius is built by Lakshay Baheti.',
                     };
                     dialog.showMessageBox(options)
                 }
